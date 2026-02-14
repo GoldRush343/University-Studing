@@ -1,6 +1,8 @@
 *.exe
 *.o
 *.out
+*.jar
+*.class
 __pycache__/
 .vscode/
 .idea/
