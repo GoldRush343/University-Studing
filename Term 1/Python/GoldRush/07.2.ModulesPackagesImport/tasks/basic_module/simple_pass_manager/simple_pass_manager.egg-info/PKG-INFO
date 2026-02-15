@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: simple_pass_manager
+Version: 0.0.1
+Summary: A small package with simple password manager
+Author: Konstantin Chernyshev
+Author-email: kdchernyshev@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Requires-Dist: cryptography
