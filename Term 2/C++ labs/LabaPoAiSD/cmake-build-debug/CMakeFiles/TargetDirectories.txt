@@ -1,0 +1,3 @@
+/home/ayusha/Programming/C++_Projects/LabaPoAiSD/cmake-build-debug/CMakeFiles/LabaPoAiSD.dir
+/home/ayusha/Programming/C++_Projects/LabaPoAiSD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ayusha/Programming/C++_Projects/LabaPoAiSD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
